@@ -1,2 +1,2 @@
 # learning-git-roimula
-My Frst Git Demo
+My First Git Demo
